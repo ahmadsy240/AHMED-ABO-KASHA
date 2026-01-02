@@ -27,28 +27,70 @@
 ## 📂 Featured Projects
 ⬇️ Some projects I’ve worked on (academic & personal):
 
-### 🔹 Charity Donation Reporting System
-- Parses XML donation data related to UK parliament members
-- Generates structured reports (Member, Party, Donor, Amount)
-- Demonstrates clean architecture & SOLID principles  
-**Tech:** Python, XML, OOP  
+🔹 Unit 1 – Programming
 
-### 🔹 Appointment Booking Automation Bot
-- Automated booking system using browser automation
-- Handles login sessions and user profiles
-- Built with async execution  
-**Tech:** Python, Playwright  
+Python assignments
 
-### 🔹 Hotel Booking Web Platform
-- Full hotel management & booking system
-- Filtering by city, price, stars, services, availability
-- Dynamic price calculation based on guests & age  
-**Tech:** Web (Frontend & Backend concepts)
+OOP examples
 
-### 🔹 Price Comparison Tool (Turkey)
-- Searches lowest product prices across:
-  Hepsiburada, Trendyol, Amazon TR, N11  
-**Tech:** Python, Web Scraping
+Functions & control flow
+
+Console-based apps
+
+🔹 Unit 2 – Database Design
+
+ERD diagrams
+
+Database normalization
+
+SQL examples
+
+Design explanation (PDF / MD)
+
+🔹 Unit 3 – Web Development
+
+Hotel Booking System
+
+Features:
+
+Hotel listing
+
+Filtering
+
+Booking logic
+
+Price calculation
+
+
+🔹 Unit 5 – Data Structures & Algorithms
+
+Sorting & searching
+
+Python implementations
+
+Time complexity explanation
+
+🔹 Unit 6 – Software Design
+
+UML diagrams
+
+Class diagrams
+
+Design patterns
+
+System structure
+
+🔹 Unit 7 – SDLC
+
+Requirements
+
+Flowcharts
+
+DFD
+
+Development phases
+
+Testing plan
 
 ---
 
