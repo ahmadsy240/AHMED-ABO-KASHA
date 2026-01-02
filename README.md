@@ -19,7 +19,7 @@
 - **Backend:** Python, REST APIs  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code  ,Curser
 - **Concepts:** OOP, SOLID, Design Patterns, Data Structures
 
 ---
